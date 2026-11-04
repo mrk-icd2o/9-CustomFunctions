@@ -2,7 +2,6 @@
 
 You will be writing your code in `sketch.js` within the main folder - not the `example/` folder.
 
-To run your code open `index.html` and then click on the *Go Live* button in the bottom right.  This will open a browser page, and should refresh every time your work saves.
 
 ## Part 1
 

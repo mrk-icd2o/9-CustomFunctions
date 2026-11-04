@@ -1,3 +1,4 @@
+
 # Lesson 9 - Custom Functions
 
 Functions organize reusable code that performs a single action. We have used `rect()` many times. Behind the scenes, many lines of code are needed to draw a rectangle, but because they are written once as a function, we can draw as many rectangles as we like without repeating all of that code.
@@ -98,3 +99,9 @@ stickPerson(400, 200, 80);
 ## Local Variables
 
 If you create a variable inside a function, it only exists inside that function. This applies to parameters as well. In the example above, `headX` does not exist outside of `stickPerson()`.
+
+## Best Use of Functions
+
+The real power of functions is the fact that they are **reusable** and can be used to get different results. With the `stickPerson()` function, we eventually were able to produce different sized stick people anywhere we want.  Having a function perform just one task (like you may have done in your previous programming assignment is fine for *organization*, but it's not using functions to their full capabilities.
+
+This is a concept that will be **very important** for your AP Create Task and Final Exam.
